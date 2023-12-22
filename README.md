@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Click Here](#)
+- Live Site URL: [Click Here](https://news-homepage-black-six.vercel.app/)
 
 ## My process
 - Looked over the pre-made, provided Figma files.
